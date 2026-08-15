@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file
-df = pd.read_csv("peptides.xlsx.csv")
+df = pd.read_csv("raw_peptides_input.csv")
 
 # Group by peptide and aggregate alleles into lists
 grouped = df.groupby("peptide")["allele"].apply(list).reset_index()

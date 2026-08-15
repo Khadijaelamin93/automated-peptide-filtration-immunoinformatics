@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Upload your CSV before running this
-input_file = 'peptides_input.csv'  # Must match the name of uploaded file
+input_file = 'raw_peptide_truncate_input.csv'  # Must match the name of uploaded file
 df = pd.read_csv(input_file)
 
 # Normalize column names

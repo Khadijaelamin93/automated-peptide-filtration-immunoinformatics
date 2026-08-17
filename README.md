@@ -21,3 +21,5 @@ The computational workflow consists of sequential peptide-processing steps:
 <img width="1024" height="1536" alt="Workflow" src="https://github.com/user-attachments/assets/e35224d9-6392-4c3e-9e60-0dacfc44b82f" />
 
 The individual scripts are designed as modular components, allowing each processing step to be reproduced independently or incorporated into a larger computational workflow.
+
+## Repository Structure

@@ -10,3 +10,43 @@ This repository provides a **post-publication computational workflow** developed
 
 ## Published article:
 [Epitope-Based Peptide Vaccine Against Glycoprotein GPC Precursor of *Lujo Virus* Using Immunoinformatics Approaches]([url](https://journalspress.com/epitope-based-peptide-vaccine-against-glycoprotein-gpc-precursor-of-lujo-virus-using-immunoinformatics-approaches/)
+
+The published study investigated an epitope-based vaccine candidate against the Lujo virus glycoprotein GPC precursor using immunoinformatics approaches, including B-cell and T-cell epitope prediction, population coverage analysis, and molecular docking.
+
+This repository focuses specifically on **automating peptide processing and filtration** associated with that computational methodology. The workflow transforms peptide data into **structured and standardized datasets** suitable for subsequent peptide selection and downstream immunoinformatics analysis.
+
+Additionally, provides Python scripts, example input and output datasets, and supplementary workflow documentation to facilitate reproducibility and demonstrate how the computational steps can be applied.
+
+## Workflow
+The computational workflow consists of sequential peptide-processing steps:
+
+1- Peptide–HLA association data
+            │
+            ▼
+     group_peptides.py
+            │
+            ▼
+Peptide_grouping and unique allele counting
+            │
+            ▼
+   Grouped peptide dataset
+
+   2- 
+            │
+            ▼
+     truncate_peptides.py
+            │
+            ▼
+Fixed-length peptide processing
+            │
+            ▼
+     Processed peptides
+            │
+            ▼
+Subsequent peptide filtration
+
+[peptide_filtration_workflow.pdf](https://github.com/user-attachments/files/31126524/peptide_filtration_workflow.pdf)
+
+and immunoinformatics analysis
+
+The individual scripts are designed as modular components so that each processing step can be reproduced independently or incorporated into a larger computational workflow.

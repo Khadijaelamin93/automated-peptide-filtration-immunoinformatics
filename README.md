@@ -1,2 +1,3 @@
-# automated-peptide-filtration-immunoinformatics
-A post-publication Python workflow for automating peptide filtration and processing in immunoinformatics.
+**Automated Peptide Filtration for Immunoinformatics
+**A reproducible Python-based workflow for automated peptide processing and filtration in immunoinformatics-based vaccine prediction studies.
+

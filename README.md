@@ -10,4 +10,4 @@ This repository provides a post-publication computational workflow developed to 
 **Arwa A. Mohammed, Mayada E. Elkhalifa, Khadija E. Elamin, Rawan A. Mohammed, Musab E. Ibrahim, Amina I. Dirar, Sara H. Migdar, Maha A. H. Musa, Emeirii H. Elawad, Salam O. Abdelsalam & Mohamed A. Hassan. (2023).** Epitope-based Peptide Vaccine against Glycoprotein GPC Precursor of Lujo Virus using Immunoinformatics Approaches. Great Britain Journal Press, 23(2).
 
 **Published article:**
-[Epitope-Based Peptide Vaccine Against Glycoprotein GPC Precursor of Lujo Virus Using Immunoinformatics Approaches]([url](https://journalspress.com/epitope-based-peptide-vaccine-against-glycoprotein-gpc-precursor-of-lujo-virus-using-immunoinformatics-approaches/)
+[Epitope-Based Peptide Vaccine Against Glycoprotein GPC Precursor of Lujo Virus Using Immunoinformatics Approaches]([url](https://journalspress.com/epitope-based-peptide-vaccine-against-glycoprotein-gpc-precursor-of-lujo-virus-using-immunoinformatics-approaches/))

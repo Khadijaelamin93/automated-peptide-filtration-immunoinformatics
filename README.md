@@ -18,8 +18,6 @@ Additionally, provides Python scripts, example input and output datasets, and su
 
 ## Workflow
 The computational workflow consists of sequential peptide-processing steps:
-<img width="1024" height="1536" alt="Repository Structure" src="https://github.com/user-attachments/assets/e6ee39bd-b6d3-42fd-8074-46174e108915" />
-
 
 <img width="1024" height="1536" alt="Workflow" src="https://github.com/user-attachments/assets/e35224d9-6392-4c3e-9e60-0dacfc44b82f" />
 

@@ -22,6 +22,20 @@ The computational workflow consists of sequential peptide-processing steps:
 <img width="1024" height="1536" alt="Workflow" src="https://github.com/user-attachments/assets/e35224d9-6392-4c3e-9e60-0dacfc44b82f" />
 
 The individual scripts are designed as modular components, allowing each processing step to be reproduced independently or incorporated into a larger computational workflow.
+
+## Example Data
+
+**Important:** The datasets included in this repository are **example datasets created to demonstrate and reproduce the computational workflow.** They are not the original peptide datasets used in the published study.
+The example data are designed to represent the type of input and output encountered in the workflow while allowing users to understand how the scripts operate without requiring access to the original study data.
+
+**For example:**
+raw_peptide_truncate_input.csv → example input for peptide truncation
+conical_peptides_output.csv → example processed peptide output
+raw_peptides_input.csv → example peptide–HLA association input
+peptide_allele_aggregator_output.csv → example peptide–HLA aggregation output
+
+These datasets are provided for demonstration, testing, and reproducibility of the computational concept only.
+
 ## Repository Structure
 <img width="1024" height="1536" alt="Repository Structure" src="https://github.com/user-attachments/assets/e6ee39bd-b6d3-42fd-8074-46174e108915" />
 

@@ -5,10 +5,16 @@ A reproducible Python-based workflow for automated peptide processing and filtra
 
 
  ## Overview
-This repository provides a **post-publication computational workflow** developed to automate a peptide-processing and filtration step associated with the methodology described in the **published study:** [Epitope-Based Peptide Vaccine Against Glycoprotein GPC Precursor of *Lujo Virus* Using Immunoinformatics Approaches]([url](https://journalspress.com/epitope-based-peptide-vaccine-against-glycoprotein-gpc-precursor-of-lujo-virus-using-immunoinformatics-approaches/)
+This repository presents an open-source Python workflow developed after the publication of the study, Epitope-Based Peptide Vaccine Against Glycoprotein GPC Precursor of Lujo Virus Using Immunoinformatics Approaches.
+
+Building on the peptide-processing and filtration steps used in the published study, this workflow automates repetitive data-processing tasks applied to IEDB prediction outputs, including peptide truncation and peptide–HLA association grouping with unique HLA allele counting (NOI). The resulting datasets are organized to facilitate the subsequent manual selection of candidate peptides and downstream immunoinformatics analyses.
+
+The workflow was developed to improve processing efficiency, reproducibility, and scalability while reducing the time required for repetitive manual operations.
 
 ## Published article:
 **Arwa A. Mohammed, Mayada E. Elkhalifa, Khadija E. Elamin, Rawan A. Mohammed, Musab E. Ibrahim, Amina I. Dirar, Sara H. Migdar, Maha A. H. Musa, Emeirii H. Elawad, Salam O. Abdelsalam & Mohamed A. Hassan. (2023).** Epitope-based Peptide Vaccine against Glycoprotein GPC Precursor of *Lujo Virus* using Immunoinformatics Approaches. Great Britain Journal Press, 23(2).
+([url](https://journalspress.com/epitope-based-peptide-vaccine-against-glycoprotein-gpc-precursor-of-lujo-virus-using-immunoinformatics-approaches/)
+
 
 The published study investigated an epitope-based vaccine candidate against the Lujo virus glycoprotein GPC precursor using immunoinformatics approaches, including B-cell and T-cell epitope prediction, population coverage analysis, and molecular docking.
 

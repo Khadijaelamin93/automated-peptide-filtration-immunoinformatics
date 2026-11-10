@@ -15,7 +15,6 @@ The workflow was developed to improve processing efficiency, reproducibility, an
 **Arwa A. Mohammed, Mayada E. Elkhalifa, Khadija E. Elamin, Rawan A. Mohammed, Musab E. Ibrahim, Amina I. Dirar, Sara H. Migdar, Maha A. H. Musa, Emeirii H. Elawad, Salam O. Abdelsalam & Mohamed A. Hassan. (2023).** Epitope-based Peptide Vaccine against Glycoprotein GPC Precursor of *Lujo Virus* using Immunoinformatics Approaches. Great Britain Journal Press, 23(2).
 ([url](https://journalspress.com/epitope-based-peptide-vaccine-against-glycoprotein-gpc-precursor-of-lujo-virus-using-immunoinformatics-approaches/)
 
-
 The published study investigated an epitope-based vaccine candidate against the Lujo virus glycoprotein GPC precursor using immunoinformatics approaches, including B-cell and T-cell epitope prediction, population coverage analysis, and molecular docking.
 
 This repository focuses specifically on **automating peptide processing and filtration** associated with that computational methodology. The workflow transforms peptide data into **structured and standardized datasets** suitable for subsequent peptide selection and downstream immunoinformatics analysis.
